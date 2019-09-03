@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Once upon a time there was a good programmer who used git. He committed
 regularly and wrote useful messages.
 
@@ -12,3 +13,10 @@ write an ending here
 
 
 This is my addition!
+=======
+Once upon a time there was a programmer. But he didn't ever use git! After all,
+he was a good programmer and didn't need to. 
+
+But one day, he made a mistake and wrote buggy code. He searched for hours for
+is bug, but couldn't figure it out.
+>>>>>>> realistic_ending
